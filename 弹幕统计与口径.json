@@ -1,0 +1,174 @@
+{
+  "video": "https://www.bilibili.com/video/BV1xc4x6QEEA",
+  "video_reported_danmaku": 9136,
+  "retrieval_date_Asia_Shanghai": "2026-11-14",
+  "all_retrieved_unique_messages": 1855,
+  "window_seconds": [
+    25,
+    60
+  ],
+  "window_messages": 875,
+  "window_users": 773,
+  "main": {
+    "literal": {
+      "positive_messages": 39,
+      "positive_users": 38,
+      "negative_messages": 125,
+      "negative_users": 117,
+      "users_both": 0,
+      "unique_users_total": 155,
+      "positive_only_users": 38,
+      "negative_only_users": 117,
+      "positive_message_percent": 23.78,
+      "negative_message_percent": 76.22,
+      "missing_user_hash": 0
+    },
+    "direct_response": {
+      "positive_messages": 57,
+      "positive_users": 54,
+      "negative_messages": 466,
+      "negative_users": 417,
+      "users_both": 0,
+      "unique_users_total": 471,
+      "positive_only_users": 54,
+      "negative_only_users": 417,
+      "positive_message_percent": 10.9,
+      "negative_message_percent": 89.1,
+      "missing_user_hash": 0
+    }
+  },
+  "sensitivity_0_to_60": {
+    "literal": {
+      "positive_messages": 39,
+      "positive_users": 38,
+      "negative_messages": 125,
+      "negative_users": 117,
+      "users_both": 0,
+      "unique_users_total": 155,
+      "positive_only_users": 38,
+      "negative_only_users": 117,
+      "positive_message_percent": 23.78,
+      "negative_message_percent": 76.22,
+      "missing_user_hash": 0
+    },
+    "direct_response": {
+      "positive_messages": 57,
+      "positive_users": 54,
+      "negative_messages": 471,
+      "negative_users": 421,
+      "users_both": 0,
+      "unique_users_total": 475,
+      "positive_only_users": 54,
+      "negative_only_users": 421,
+      "positive_message_percent": 10.8,
+      "negative_message_percent": 89.2,
+      "missing_user_hash": 0
+    }
+  },
+  "sensitivity_25_to_45": {
+    "literal": {
+      "positive_messages": 38,
+      "positive_users": 37,
+      "negative_messages": 125,
+      "negative_users": 117,
+      "users_both": 0,
+      "unique_users_total": 154,
+      "positive_only_users": 37,
+      "negative_only_users": 117,
+      "positive_message_percent": 23.31,
+      "negative_message_percent": 76.69,
+      "missing_user_hash": 0
+    },
+    "direct_response": {
+      "positive_messages": 52,
+      "positive_users": 49,
+      "negative_messages": 422,
+      "negative_users": 379,
+      "users_both": 0,
+      "unique_users_total": 428,
+      "positive_only_users": 49,
+      "negative_only_users": 379,
+      "positive_message_percent": 10.97,
+      "negative_message_percent": 89.03,
+      "missing_user_hash": 0
+    }
+  },
+  "included_normalized_positive": [
+    "中",
+    "你们不借我借",
+    "借",
+    "借必须借",
+    "借拿去",
+    "借给blg",
+    "好",
+    "好借",
+    "好好好",
+    "好的",
+    "就借",
+    "就借就借嘻嘻"
+  ],
+  "included_normalized_negative": [
+    "不借",
+    "不借blg必输",
+    "不借你求我",
+    "不借宫队",
+    "不借扫冯",
+    "不借有人喷ig我就不借",
+    "不好",
+    "不好不借",
+    "不好也不借宁可lck夺冠也不要碧螺春",
+    "不好大力狗加油",
+    "坚决不借",
+    "孬",
+    "就不借",
+    "死都不借geng加油lck加油shy加油"
+  ],
+  "matched_texts": {
+    "positive": {
+      "好！": 10,
+      "好": 23,
+      "好的！": 1,
+      "好!": 1,
+      "借": 6,
+      "借！": 1,
+      "借，必须借": 1,
+      "中！": 1,
+      "借给blg": 1,
+      "好，借!": 1,
+      "好好好": 1,
+      "你们不借我借": 1,
+      "好，借": 1,
+      "好！！！！": 2,
+      "好！！！！！！": 1,
+      "好！@": 1,
+      "好！！！！！！！！！！！！": 1,
+      "就借": 1,
+      "借！拿去！": 1,
+      "就借就借嘻嘻": 1
+    },
+    "negative": {
+      "不借": 326,
+      "不好": 125,
+      "不好，不借": 2,
+      "就不借": 1,
+      "孬": 1,
+      "不借扫冯": 1,
+      "不好，大力狗加油": 1,
+      "不好，也不借，宁可lck夺冠也不要碧螺春": 1,
+      "不借！": 1,
+      "不借你求我": 1,
+      "死都不借！geng加油！lck加油！shy加油！！！！": 1,
+      "不好 不借": 1,
+      "坚决不借": 1,
+      "不借宫队": 1,
+      "不借，blg必输": 1,
+      "不借 有人喷ig我就不借": 1
+    }
+  },
+  "limitations": [
+    "Public current danmaku pools only; history endpoint returned code -101 (not logged in). This is not an all-time census or random sample.",
+    "Users deduplicated using anonymous user hash; no real UID verification, theoretical hash collisions possible.",
+    "Window chosen around the response cluster based on danmaku timing; spoken audio not independently transcribed.",
+    "Punctuation, spaces and symbols removed for matching; other commentary and generic BLG encouragement excluded."
+  ]
+}
